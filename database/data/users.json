@@ -1,0 +1,19 @@
+[
+    {
+        
+        "name": "Usuario Administrador",
+        "email": "admin@gmail.com",
+        "email_verified_at": "20-05-2023 12:00:00",
+        "password": "12345678",
+        "is_admin": 1
+    },   
+
+    {
+        
+        "name": "Usuario de prueba",
+        "email": "user@gmail.com",
+        "email_verified_at": "20-05-2023 12:00:00",
+        "password": "12345678",
+        "is_admin": 0
+    }   
+]

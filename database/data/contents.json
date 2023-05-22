@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "name": "Mario Bros",
+        "description": "Mientras trabajan en una avería subterránea, los fontaneros de Brooklyn, Mario y su hermano Luigi, viajan por una misteriosa tubería hasta un nuevo mundo mágico. Pero, cuando los hermanos se separan, Mario deberá emprender una épica misión para encontrar a Luigi",
+        "duration": 92,
+        "year": "2023",
+        "image_path": "images/mario.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Winnie The Pooh Sangre Y Miel",
+        "description": "Ahora asilvestrados y sedientos de sangre, Winnie the Pooh y Piglet aterrorizan a Christopher Robin y a un grupo de jóvenes en una casa remota",
+        "duration": 84,
+        "year": "2023",
+        "image_path": "images/winnie.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Aquaman and the Lost Kingdom",
+        "description": "Aquaman forja una alianza incómoda con un aliado poco probable para salvar a Atlantis y al resto del planeta de la muerte inminente.",
+        "duration": 112,
+        "year": "2023",
+        "image_path": "images/Aquaman.jpg"
+    }
+]
+
